@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/43d59n83d89/bay-city/?unit=us" data-label_1="BAY CITY" data-label_2="WEATHER" data-font="Monaco" data-icons="Climacons Animated" data-theme="beige" data-basecolor="#ACA99F" data-accent="#CBC8BE" data-textcolor="#2B230C" data-highcolor="#35322B" data-lowcolor="#4B4638" data-suncolor="#C25914" data-mooncolor="#2B230C" data-cloudcolor="#2B230C" data-cloudfill="#F1EDE1" data-raincolor="#517BAC" data-snowcolor="#F1EDE1" >BAY CITY WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
